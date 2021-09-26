@@ -1,0 +1,10 @@
+{
+    "learning_rate": 0.1,
+    "max_depth": 25,
+    "num_leaves": 1000, 
+    "objective": "regression",
+    "feature_fraction": 0.9,
+    "bagging_fraction": 0.5,
+    "max_bin": 1000,
+    "verbose":2
+}
